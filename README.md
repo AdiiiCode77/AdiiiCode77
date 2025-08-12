@@ -77,11 +77,11 @@
 [![Adeel's github stats](https://github-readme-stats.vercel.app/api?username=AdiiiCode77&theme=gotham)](https://github.com/AdiiiCode77/github-readme-stats)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdiiiCode77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AdiiiCode77&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AdiiiCode77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AdiiiCode77&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiiiCode77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>
+<br/><br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AdiiiCode77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
