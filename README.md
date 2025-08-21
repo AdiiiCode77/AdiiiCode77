@@ -4,8 +4,8 @@
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
-<div align="centre">
-### Hey there, I'm  Adeel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+<div align="center">
+ <p align="center> Hey there, I'm  Adeel </p> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 </div>
 
 <div align="center">
