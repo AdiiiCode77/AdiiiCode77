@@ -105,5 +105,15 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AdiiiCode77&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+
+<div align="center">
+  
+### 💡 "The best time to plant a tree was 20 years ago. The second best time is now." 
+### Keep coding, keep growing! 🚀
+
+</div>
+
+![animated-wave](https://github.com/Ctoic/Ctoic/assets/90936436/f12da875-8704-4e89-80f8-31c42713adec)
 </div>
