@@ -81,10 +81,6 @@
 
 [![Adeel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdiiiCode77&theme=gotham)](https://github.com/AdiiiCode77/github-readme-activity-graph)
 
-
-[![Adeel's github stats](https://github-readme-stats.vercel.app/api?username=AdiiiCode77&theme=gotham)](https://github.com/AdiiiCode77/github-readme-stats)
-
-
 ![](https://github-streak-stats.vercel.app/?user=AdiiiCode77&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiiiCode77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
