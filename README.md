@@ -76,7 +76,8 @@
 
 
 <br>
-
+<br/><br/>
+<br/><br/>
 <summary>📝 My GitHub Stats</summary>
 
 [![Adeel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdiiiCode77&theme=gotham)](https://github.com/AdiiiCode77/github-readme-activity-graph)
