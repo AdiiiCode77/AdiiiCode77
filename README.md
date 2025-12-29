@@ -59,38 +59,6 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> -->
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=AdiiiCode77
-    &theme=dark
-    &hide_border=true
-    &ring=00ff7f
-    &fire=00ff7f
-    &currStreakLabel=00ff7f
-    &sideLabels=00ff7f
-    &dates=00ff7f"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AdiiiCode77
-    &show_icons=true
-    &theme=dark
-    &hide_border=true
-    &icon_color=00ff7f
-    &text_color=00ff7f
-    &title_color=00ff7f
-    &include_all_commits=true
-    &count_private=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-
 <div align="center">
 <p align="center">🛠 Tools & Technology</p>
 
