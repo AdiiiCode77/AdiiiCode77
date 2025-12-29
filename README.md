@@ -63,7 +63,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME
+    src="https://github-readme-streak-stats.herokuapp.com?user=AdiiiCode77
     &theme=dark
     &hide_border=true
     &ring=00ff7f
@@ -77,7 +77,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME
+    src="https://github-readme-stats.vercel.app/api?username=AdiiiCode77
     &show_icons=true
     &theme=dark
     &hide_border=true
