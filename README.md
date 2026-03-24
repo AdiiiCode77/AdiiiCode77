@@ -80,10 +80,10 @@
 <br/><br/>
 <summary>📝 My GitHub Stats</summary>
 
-[![Adeel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdiiiCode77&theme=gotham)](https://github.com/AdiiiCode77/github-readme-activity-graph)
+[![Adeel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAdeel077&theme=gotham)](https://github.com/MuhammadAdeel077/github-readme-activity-graph)
 
-![](https://github-streak-stats.vercel.app/?user=AdiiiCode77&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiiiCode77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-streak-stats.vercel.app/?user=MuhammadAdeel077&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAdeel077&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br/><br/>
 
@@ -94,10 +94,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdiiiCode77&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=MuhammadAdeel077&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdiiiCode77&icon=7&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MuhammadAdeel077&icon=7&color=0)](https://visitcount.itsvg.in)
 
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
